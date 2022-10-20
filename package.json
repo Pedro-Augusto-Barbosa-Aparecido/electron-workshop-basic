@@ -1,0 +1,14 @@
+{
+  "name": "electron-wk-base",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Pedro-Augusto-Barbosa-Aparecido/electron-workshop-basic.git",
+  "author": "Pedro-Augusto-Barbosa-Aparecido <pedr.augustobarbosa.aparecido@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^21.2.0"
+  }
+}
